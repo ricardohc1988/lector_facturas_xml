@@ -26,11 +26,11 @@ El proyecto requiere Python 3.x y las siguientes bibliotecas Python:
 ```sh
 git clone https://github.com/tu_usuario/tu_repositorio.git
 ```
-3. Navega al directorio del proyecto
+2. Navega al directorio del proyecto
 ```sh
 cd tu_repositorio
 ```
-5. Instala las dependencias usando Pipenv
+3. Instala las dependencias usando Pipenv
 ```sh
 pipenv install
 ```
